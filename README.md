@@ -29,8 +29,7 @@ You can search for any movie by name and get details like **poster, rating, plot
 ---
 
 ## 📸 Screenshot
-![Movie Search Screenshot](https://github.com/tirthchaudhary/Movie-Search/blob/main/movie-search-demo2.png 
-)  
+![Movie Search Screenshot]( https://github.com/tirthchaudhary/Movie-Search/blob/main/movie-search-ss1.png)
 
 ---
 
